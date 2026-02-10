@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AuraLock: Smart Headphone Security",
+  "description": "A premium security suite for your headphones. Features PIN-based locking, real-time geolocation tracking, and AI-powered proximity alerts with geofencing capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
